@@ -34,10 +34,10 @@ appid=YOUR_API_KEY
 
 Update the values:
 
-* `latitude` — your location latitude
-* `longitude` — your location longitude
-* `language` — language code used by OpenWeather (for example `en`, `pl`, `de`)
-* `appid` — your OpenWeather API key
+* `latitude` â€” your location latitude
+* `longitude` â€” your location longitude
+* `language` â€” language code used by OpenWeather (for example `en`, `pl`, `de`)
+* `appid` â€” your OpenWeather API key
 
 You can get an API key by creating an account on the OpenWeather website.
 
@@ -53,9 +53,9 @@ language=pl
 
 This affects values returned by the API, such as:
 
-* `clear sky` › `bezchmurnie`
-* `few clouds` › `ma³e zachmurzenie`
-* `light rain` › `lekki deszcz`
+* `clear sky` â€º `bezchmurnie`
+* `few clouds` â€º `maÅ‚e zachmurzenie`
+* `light rain` â€º `lekki deszcz`
 
 The widget labels are **not translated automatically**. I was too lazy to add a language system for the static text, so you need to translate these manually in the `.ini` file if you want to use another language.
 
