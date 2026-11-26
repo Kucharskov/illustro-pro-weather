@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/image.png" alt="Screenshoot">
+  <img src="resources/image.png" alt="Screenshoot"> <img src="resources/image2.png" alt="Screenshoot">
 </p>
 
 # Illustro PRO weather widget
